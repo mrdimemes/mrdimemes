@@ -7,4 +7,4 @@ I'm currently learning ReactJS.
 
 English is not my first language, so please let me know if I make a mistake. I will really appreciate it.
 
-You can email me anytime or wind me on [https://twitter.com/mrdimemes](Twitter)
+You can email me anytime or wind me on [Twitter](https://twitter.com/mrdimemes)
