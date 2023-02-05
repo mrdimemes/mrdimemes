@@ -1,4 +1,4 @@
-Hi, I am Dmitry. Frontend dev. Almost have a cybersecurity degree.
+Hi, I am Dmitry. Frontend dev. Cybersec.
 
 Stack: HTML, CSS/Sass, JavaScript/TypeScript, React.
 Additional: Python.
